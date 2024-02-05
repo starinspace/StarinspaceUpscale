@@ -18,7 +18,7 @@ Upscale Models
  <br>
 **Description:** Anime upscale from dvd with x4, a little softer lines and look but keeps the colors.
 
-<img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xDrawimation-compact.gif" width="695"/>
+<img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xDrawimation-compact.gif"/>
 
 ***
 
