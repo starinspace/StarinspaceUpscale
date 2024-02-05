@@ -45,11 +45,13 @@ upscaled from resolution 232x232px (25%), 463x463px (50%), 695x695px (100%)
 
 <img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xPurePhoto.yml.gif" width="695"/>
 <img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xPurePhoto.yml_cat.gif" width="695"/>
+
 ***
+
 # Tools for upscale
 * [ChaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
-* All images from pixabay
+All images from pixabay
 
 
 
