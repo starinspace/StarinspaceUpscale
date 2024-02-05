@@ -28,11 +28,11 @@ Upscale Models
 **Model Architecture:** span <br>
 **Scale:** 4 <br>
 **Purpose:** upscale high resolution photos and medium quality (preferable 450px on smallest side) <br>
-**Iterations:** 328k <br>
+**Iterations:** 380k <br>
 **batch_size:** 4 <br>
-**HR_size:** 192 <br>
+**HR_size:** 256 <br>
 **Epoch:** ? <br>
-**Dataset:** 6358 handpicked images <br>
+**Dataset:** 6500 <br>
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
  <br>
