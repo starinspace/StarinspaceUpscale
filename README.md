@@ -36,7 +36,7 @@ Upscale Models
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
  <br>
-**Description:** Good with cats, hair, party, sharp images, also resized photos, great with big sharp photos to make them even larger. Does do a good job with images that is 50% of original size, even a bit smaller depending on object, look at example).
+**Description:** Skilled in working with cats, hair, parties, and creating clear images. Also proficient in resizing photos and enlarging large, sharp images. Can effectively improve images from small sizes as well (300px at smallest on one side, depending on the subject). Experienced in experimenting with techniques like upscaling with this model twice and then reducing it by 50% to enhance details, especially in features like hair or animals.
 
 Upcale example:
 
