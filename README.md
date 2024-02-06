@@ -28,7 +28,7 @@ Upscale Models
 **Model Architecture:** span <br>
 **Scale:** 4 <br>
 **Purpose:** upscale high resolution photos and medium quality (preferable 450px on smallest side) <br>
-**Iterations:** 380k <br>
+**Iterations:** 488k <br>
 **batch_size:** 4 <br>
 **HR_size:** 256 <br>
 **Epoch:** ? <br>
@@ -36,7 +36,7 @@ Upscale Models
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
  <br>
-**Description:** Good with cats, hair, party, sharp images, also resized photos, great with big sharp photos to make them even larger. Does do a good job with images that is 50% of original size, even a bit smaller depending on object, look at example)
+**Description:** Good with cats, hair, party, sharp images, also resized photos, great with big sharp photos to make them even larger. Does do a good job with images that is 50% of original size, even a bit smaller depending on object, look at example).
 
 Upcale example:
 
