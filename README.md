@@ -18,7 +18,7 @@ Upscale Models
  <br>
 **Description:** Capable of upscaling anime content from DVD sources by a factor of four, resulting in slightly softened lines while preserving the original colors.
 
-<img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xDrawimation-compact.gif"/>
+<img src="https://github.com/starinspace/StarinspaceUpscale/blob/main/images/4xDrawimation-compact.gif" width="250"/>
 
 ***
 
