@@ -18,7 +18,7 @@ Upscale Models
  <br>
 **Description:** Capable of upscaling anime content from DVD sources by a factor of four, resulting in slightly softened lines while preserving the original colors. Works perfect with 90's cartoon series.
 
-<img src="https://i.ibb.co/1bWH6SK/image.png" width="695"/>
+[<img src="https://i.ibb.co/1bWH6SK/image.png" width="695"/>](https://imgsli.com/MjQ1Njgw)
 image from pixabay
 
 ***
@@ -41,7 +41,7 @@ image from pixabay
 
 Upscale example:
 
-<img src="https://i.ibb.co/Lkf6XLJ/Sk-rmbild-2024-03-08-142337.png" width="695"/>
+[<img src="https://i.ibb.co/Lkf6XLJ/Sk-rmbild-2024-03-08-142337.png" width="695"/>](https://imgsli.com/MjQ1Njc4)
 
 ***
 
@@ -63,7 +63,7 @@ Upscale example:
 
 Upscale example:
 
-<img src="https://i.ibb.co/GHsYhxb/Sk-rmbild-2024-03-08-142004.png" width="695"/>
+[<img src="https://i.ibb.co/GHsYhxb/Sk-rmbild-2024-03-08-142004.png" width="695"/>](https://imgsli.com/MjQ1NjE1)
 
 ***
 
