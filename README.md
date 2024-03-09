@@ -50,8 +50,8 @@ Upscale example:
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
 **Model Architecture:** compact <br>
 **Scale:** 4 <br>
-**Purpose:** Fast upscale with high-resolution photos to medium quality, preferably with a minimum size of 300px on the smallest side. <br>
-**Iterations:** 488k <br>
+**Purpose:** Fast upscale with high-resolution photos to medium quality, preferably with a minimum size of 400px on the smallest side.<br>
+**Iterations:** 499k <br>
 **batch_size:** 4 <br>
 **HR_size:** 256 <br>
 **Epoch:** ? <br>
@@ -63,7 +63,7 @@ Upscale example:
 
 Upscale example:
 
-[<img src="https://i.ibb.co/GHsYhxb/Sk-rmbild-2024-03-08-142004.png" width="695"/>](https://imgsli.com/MjQ1NjE1)
+[<img src="https://i.ibb.co/QF1HR1b/Sk-rmbild-2024-03-09-131425.png" width="695"/>](https://imgsli.com/MjQ1ODIw)
 
 ***
 
