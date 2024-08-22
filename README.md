@@ -1,6 +1,25 @@
 # StarinspaceUpscale
 Upscale Models
 ***
+### Name: 2xVHS2HD-RealPLKSR
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLKSR <br>
+**Scale:** 2 <br>
+**Purpose:** Upscale VHS and restore image quality. <br>
+**Iterations:** 385k <br>
+**batch_size:** 8 <br>
+**patch_size:** 48 <br>
+**Dataset:** 6'019 images <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** A upscale model for VHS recording that will fix some artifacts like halo/ghosting and noice pattern. Mostly trained on PAL resolution.
+
+[<img src="https://i.ibb.co/pd3qTf6/image.png" width="695"/>](https://imgsli.com/MjkwMDcz)
+
+
+
+***
 
 ### Name: 4xDrawimation-compact
 **License:** CC-BY-SA-4.0<br>
@@ -11,7 +30,6 @@ Upscale Models
 **Iterations:** 328k <br>
 **batch_size:** 4 <br>
 **HR_size:** 192 <br>
-**Epoch:** ? <br>
 **Dataset:** 6358 handpicked images <br>
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
@@ -32,7 +50,6 @@ image from pixabay
 **Iterations:** 488k <br>
 **batch_size:** 4 <br>
 **HR_size:** 256 <br>
-**Epoch:** ? <br>
 **Dataset:** 6500 <br>
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
@@ -54,7 +71,6 @@ Upscale example:
 **Iterations:** 499k <br>
 **batch_size:** 4 <br>
 **HR_size:** 256 <br>
-**Epoch:** ? <br>
 **Dataset:** 6500 <br>
 **OTF Training:** No <br>
 **Pretrained_Model_G:** No <br>
