@@ -13,9 +13,9 @@ Upscale Models
 **Dataset:** 6'019 images <br>
 **Pretrained_Model_G:** No <br>
  <br>
-**Description:** A upscale model for VHS recording that will fix some artifacts like halo/ghosting and noice pattern. Mostly trained on PAL resolution.
+**Description:** An advanced VHS recording model designed to enhance video quality by reducing artifacts such as haloing, ghosting, and noise patterns. Optimized primarily for PAL resolution (NTSC might work good as well). 
 
-[<img src="https://i.ibb.co/pd3qTf6/image.png" width="695"/>](https://imgsli.com/MjkwMDcz)
+[<img src="https://i.ibb.co/Btw5BKV/image.png" width="695"/>](https://imgsli.com/MjkwMDcz)
 
 
 
