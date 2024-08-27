@@ -1,6 +1,25 @@
 # StarinspaceUpscale
 Upscale Models
 ***
+
+### Name: 2x_Text2HD_v.1-RealPLKSR
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLKSR <br>
+**Scale:** 2 <br>
+**Purpose:** Upscale text in very low quality to normal quality. <br>
+**Iterations:** 147k <br>
+**batch_size:** 8 <br>
+**patch_size:** 48 <br>
+**Dataset:** 8'000 images <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** The upscale model is specifically designed to enhance lower-quality text images, improving their clarity and readability by upscaling them by 2x. It excels at processing moderately sized text, effectively transforming it into high-quality, legible scans. However, the model may encounter challenges when dealing with very small text, as its performance is optimized for text of a certain minimum size. For best results, input images should contain text that is not excessively small.
+
+[<img src="https://raw.githubusercontent.com/starinspace/StarinspaceUpscale/main/images/2x_Text2HD_v.1-RealPLKSR.png" width="695"/>](https://imgsli.com/MjkxNTE5)
+
+***
+
 ### Name: 2xVHS2HD-RealPLKSR
 **License:** CC-BY-SA-4.0<br>
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
@@ -17,8 +36,6 @@ Upscale Models
 
 [<img src="https://i.ibb.co/Btw5BKV/image.png" width="695"/>](https://imgsli.com/MjkwMDcz)
 
-
-
 ***
 
 ### Name: 4xDrawimation-compact
@@ -28,6 +45,7 @@ Upscale Models
 **Scale:** 4 <br>
 **Purpose:** Skilled in upscaling anime content sourced from DVDs to higher resolutions. <br>
 **Iterations:** 328k <br>
+
 **batch_size:** 4 <br>
 **HR_size:** 192 <br>
 **Dataset:** 6358 handpicked images <br>
