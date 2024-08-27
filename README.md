@@ -34,7 +34,7 @@ Upscale Models
  <br>
 **Description:** An advanced VHS recording model designed to enhance video quality by reducing artifacts such as haloing, ghosting, and noise patterns. Optimized primarily for PAL resolution (NTSC might work good as well). 
 
-[<img src="https://i.ibb.co/Btw5BKV/image.png" width="695"/>](https://imgsli.com/MjkwMDcz)
+[<img src="https://raw.githubusercontent.com/starinspace/StarinspaceUpscale/main/images/2xVHS2HD-RealPLKSR.jpg" width="695"/>](https://imgsli.com/MjkwMDcz)
 
 ***
 
