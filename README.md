@@ -20,6 +20,27 @@ Upscale Models
 
 ***
 
+### Name: 4xPurePhoto-RealPLSKR
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLSKR <br>
+**Scale:** 4 <br>
+**Purpose:** Proficient in upscaling high-resolution photos to medium quality, preferably with a minimum size of 300px on the smallest side. <br>
+**Iterations:** 152k <br>
+**batch_size:** 8 <br>
+**HR_size:** 1024 <br>
+**Dataset:** 8684 <br>
+**OTF Training:** No <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** Skilled in working with cats, hair, parties, and creating clear images. Also proficient in resizing photos and enlarging large, sharp images. Can effectively improve images from small sizes as well (300px at smallest on one side, depending on the subject). Experienced in experimenting with techniques like upscaling with this model twice and then reducing it by 50% to enhance details, especially in features like hair or animals.
+
+Upscale example:
+
+[<img src="https://github.com/user-attachments/assets/8eb9e126-ff15-46bc-8175-d4201c35faa9" width="695"/>](https://imgsli.com/Mjk4OTkw)
+
+***
+
 ### Name: 2xVHS2HD-RealPLKSR
 **License:** CC-BY-SA-4.0<br>
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
@@ -59,7 +80,7 @@ image from pixabay
 
 ***
 
-### Name: 4xPurePhoto
+### Name: 4xPurePhoto-SPAN
 **License:** CC-BY-SA-4.0<br>
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
 **Model Architecture:** span <br>
