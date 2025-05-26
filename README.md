@@ -2,6 +2,26 @@
 Upscale Models
 ***
 
+COMMING SOON...
+
+### Name: 1xBook-RealPLSKR
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLKSR <br>
+**Scale:** 1 <br>
+**Purpose:** "binarization" for scanned books. <br>
+**Iterations:** ? <br>
+**batch_size:** ? <br>
+**patch_size:** ? <br>
+**Dataset:** ? images <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** This model is designed to restore scanned pages by removing dust, hair, spots, and enhancing the background to make the page look like new. It was trained on hundreds of manually edited images from scanned books.
+
+![ezgif-73cce846a48c94](https://github.com/user-attachments/assets/3bbe4952-5d2d-4020-9957-b894f1d675ca)
+
+***
+
 ### Name: 2x_Text2HD_v.1-RealPLKSR
 **License:** CC-BY-SA-4.0<br>
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
