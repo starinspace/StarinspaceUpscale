@@ -18,7 +18,7 @@ COMMING SOON...
  <br>
 **Description:** This model is designed to restore scanned pages by removing dust, hair, spots, and enhancing the background to make the page look like new. It was trained on hundreds of manually edited images from scanned books.
 
-[<img src="https://i.ibb.co/LhBDnt34/gix1xbook.webp" width="695"/>](https://ibb.co/vvfCZPS2)
+[<img src="https://i.ibb.co/LhBDnt34/gix1xbook.webp" width="695"/>](https://imgsli.com/MzgzMDY4)
 
 ***
 
