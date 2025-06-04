@@ -4,21 +4,46 @@ Upscale Models
 
 COMMING SOON...
 
+### Name: 4xBook-RealPLSKR
+
+***
+
+COMMING SOON...
+
 ### Name: 1xBook-RealPLSKR
+
+***
+
+COMMING SOON...
+
+### Name: 1xBook-Compact
 **License:** CC-BY-SA-4.0<br>
 **Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
-**Model Architecture:** RealPLKSR <br>
+**Model Architecture:** Compact <br>
 **Scale:** 1 <br>
 **Purpose:** "binarization" for scanned books. <br>
-**Iterations:** ? <br>
-**batch_size:** ? <br>
-**patch_size:** ? <br>
-**Dataset:** ? images <br>
+**Iterations:** 399k <br>
+**batch_size:** 16 <br>
+**patch_size:** 95 <br>
+**Dataset:** 13150 images <br>
 **Pretrained_Model_G:** No <br>
  <br>
-**Description:** This model is designed to restore scanned pages by removing dust, hair, spots, and enhancing the background to make the page look like new. It was trained on hundreds of manually edited images from scanned books.
+**Description:** A compact, lightweight version trained for general-purpose cleanup. While it performs well, RealPLSKR delivers superior results for more complex cases.<br><br>
+Strengths (Handles Well):<br><br>
+✔ Color bleed<br>
+✔ Spots & small speckles<br>
+✔ Mould stains<br>
+✔ Fine hair & scratches – Good at thin, faint lines.<br>
+✔ Light pencil marks<br>
+✔ Dividers & text preservation<br>
+Weaknesses (Struggles With):<br><br>
+✖ Large speckles<br>
+✖ Thick hair/clumps – May leave remnants or blurring.<br>
+✖ Photographs – Bad lighting; noisy/dark images degrade quality.<br>
 
-[<img src="https://i.ibb.co/LhBDnt34/gix1xbook.webp" width="695"/>](https://imgsli.com/MzgzMDY4)
+[![bild](https://github.com/user-attachments/assets/1e593d41-ccf8-4942-9ec2-5e526468bf47)](https://imgsli.com/Mzg1NDQ5/0/1)
+
+[![bild](https://github.com/user-attachments/assets/3bfcb6bd-4c36-4d2c-88e2-ec92953437bf)](https://imgsli.com/Mzg1NDQ3/3/1)
 
 ***
 
