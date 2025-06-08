@@ -4,6 +4,10 @@ Upscale Models
 
 COMMING SOON...
 
+### Name: 1xBook-RealPLSKR
+
+***
+
 ### Name: 4xBook-RealPLSKR
 
 **License:** CC-BY-SA-4.0<br>
@@ -32,12 +36,6 @@ Weaknesses (Struggles With):<br><br>
 ✖ Photographs – Bad lighting; noisy/dark images degrade quality.<br>
 
 [![bild](https://github.com/user-attachments/assets/362ffd69-2aac-45ea-8a3e-354d763371b8)](https://imgsli.com/Mzg2ODY5/0/1)
-
-***
-
-COMMING SOON...
-
-### Name: 1xBook-RealPLSKR
 
 ***
 
