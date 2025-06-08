@@ -6,6 +6,33 @@ COMMING SOON...
 
 ### Name: 4xBook-RealPLSKR
 
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLSKR <br>
+**Scale:** 4 <br>
+**Purpose:** "binarization" for scanned books. <br>
+**Iterations:** 180k <br>
+**batch_size:** 16 <br>
+**patch_size:** 95 <br>
+**Dataset:** 13150 images <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** General-purpose cleanup. While it performs well, also delivers superior results for more complex cases.<br><br>
+Strengths (Handles Well):<br><br>
+✔ Color bleed<br>
+✔ Spots & small speckles (Better than the compact version)<br>
+✔ Mould stains<br>
+✔ Fine hair & scratches – Good at thin, faint lines (Better than compact version)<br>
+✔ Remove light pencil marks (Better than compact version)<br>
+✔ Dividers & text preservation<br>
+✔ Large speckles<br>
+Weaknesses (Struggles With):<br><br>
+✖ Thick hair/clumps – May leave remnants or blurring.<br>
+✖ Dark lines with pencil.<br>
+✖ Photographs – Bad lighting; noisy/dark images degrade quality.<br>
+
+[![bild](https://github.com/user-attachments/assets/362ffd69-2aac-45ea-8a3e-354d763371b8)](https://imgsli.com/Mzg2ODY5/0/1)
+
 ***
 
 COMMING SOON...
