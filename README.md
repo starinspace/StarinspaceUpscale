@@ -8,6 +8,30 @@ COMMING SOON...
 
 ***
 
+### Name: 1xDe-Binarization_v1.0-RealPLSKR
+
+**License:** CC-BY-SA-4.0<br>
+**Link:** [Download Github](https://github.com/starinspace/StarinspaceUpscale/releases/tag/Models) <br>
+**Model Architecture:** RealPLSKR <br>
+**Scale:** 1 <br>
+**Purpose:** Designed for 'de-binarization' of poorly binarized scanned books, as well as softening harsh edges in text and images. <br>
+**Iterations:** ? <br>
+**batch_size:** ? <br>
+**patch_size:** ? <br>
+**Dataset:** 20152 images <br>
+**Pretrained_Model_G:** No <br>
+ <br>
+**Description:** Make binarization pages look more like the scanned version, fixing images. <br><br>
+Strengths (Handles Well):<br><br>
+✔ Restores binarized pages (with images) to a more natural, scan-like appearance<br>
+✔ Enhances and recovers embedded images.<br>
+Weaknesses (Struggles With):<br><br>
+✖ Introduces halo artifacts around very small details, such as single-pixel dots.<br>
+
+<img width="1248" height="416" alt="bild" src="https://github.com/user-attachments/assets/a4e772d7-3c5c-45db-9ee1-0b8c70b30eca" />
+
+***
+
 ### Name: 4xBook-RealPLSKR
 
 **License:** CC-BY-SA-4.0<br>
