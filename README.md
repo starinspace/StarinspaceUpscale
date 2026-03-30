@@ -21,7 +21,7 @@ COMMING SOON...
 **Dataset:** 20152 images <br>
 **Pretrained_Model_G:** No <br>
  <br>
-**Description:** Make binarization pages look more like the scanned version, fixing images. <br><br>
+**Description:** Make binarization pages look more like the scanned version, fixing images. I recommend that you use Brightness & Contrast and changing Contrast to 6.0 in chaiNNer for better results. <br><br>
 Strengths (Handles Well):<br><br>
 ✔ Restores binarized pages (with images) to a more natural, scan-like appearance<br>
 ✔ Enhances and recovers embedded images.<br>
