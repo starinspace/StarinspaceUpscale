@@ -15,9 +15,9 @@ COMMING SOON...
 **Model Architecture:** RealPLSKR <br>
 **Scale:** 1 <br>
 **Purpose:** Designed for 'de-binarization' of poorly binarized scanned books, as well as softening harsh edges in text and images. <br>
-**Iterations:** ? <br>
-**batch_size:** ? <br>
-**patch_size:** ? <br>
+**Iterations:** 193678 <br>
+**batch_size:** 8 <br>
+**patch_size:** 96 <br>
 **Dataset:** 20152 images <br>
 **Pretrained_Model_G:** No <br>
  <br>
